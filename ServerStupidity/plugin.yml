@@ -1,0 +1,23 @@
+name: ServerStupidity
+main: me.GRPGamer.ServerStupidity.ServerStupidity
+version: 0.5.1
+description: Cool Stupid Commands for Server Admins and Donators
+commands:
+  serverstupidity:
+    description: Reference command for ServerStupidity.
+    aliases: ss
+  ss slap:
+    description: Slaps a Player!
+    aliases: serverstupidity slap
+  ss punch:
+    description: Punches a Player!
+    aliases: serverstupidity punch
+  ss poke:
+    description: Pokes a Player!
+    aliases: serverstupidity poke
+  ss burn:
+    description: Burns a Player!
+    aliases: serverstupidity burn
+  ss kill:
+    description: Kills a Player!
+    aliases: serverstupidity kill

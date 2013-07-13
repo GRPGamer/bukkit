@@ -1,0 +1,35 @@
+# Use %victim% to define the players name that is getting targeted!
+# Use %sender% to define the players name who is sending the command!
+
+#Slaps:
+
+#What message will be displayed when you get slapped!
+SlapRecieve: You have been slapped by %sender%!
+#What message will be displayed when you slap someone!
+SlapSend: You have slapped %victim%!
+
+#Punches:
+
+#What message will be displayed when you get punched!
+PunchRecieve: You have been punched by %sender%!
+#What message will be displayed when you punch someone!
+PunchSend: You have punched %victim%!
+
+#Pokes:
+
+#What message will be displayed when you get poked!
+PokeRecieve: You have been poked by %sender%!
+#What message will be displayed when you poke someone!
+PokeSend: You have poked %victim%!
+
+#Burns:
+#What message will be displayed when you get burned!
+BurnRecieve: You have been burned by %sender%!
+#What message will be displayed when you burn someone!
+BurnSend: You have burned %victim%!
+
+#Kills:
+#What message will be displayed when you get killed!
+KillRecieve: You have been killed by %sender%!
+#What message will be displayed when you kill someone!
+KillSend: You have killed %victim%!
